@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Phat</h1>
+<h1 align="center">Hi 👋🏼, I'm Phat</h1>
 <h3 align="center">A boy passionate about competitive programming</h3>
 
 - 🔭 I’m currently studying [VKU University](https://daotao.vku.udn.vn/)
